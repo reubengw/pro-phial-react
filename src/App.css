@@ -1,3 +1,12 @@
 .App {
   text-align: center;
 }
+
+:root {
+  --primary-dark: #9a8c98;
+  --primary-light: #c9ada7;
+  --primary-lighter: #f2e9e4;
+
+  --accent-dark: #22223b;
+  --accent-light: #4a4e69;
+}
